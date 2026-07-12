@@ -1,6 +1,6 @@
-# loop-advisor
+# Loop-Advisor
 
-**loop-advisor** est un petit outil en ligne de commande (CLI) qui regarde le contenu d'un
+**Loop-Advisor** est un petit outil en ligne de commande (CLI) qui regarde le contenu d'un
 projet Git et te suggère des **"loops"** adaptées à ce projet — des routines de travail
 automatisées, disponibles sur [loops.elorm.xyz](https://loops.elorm.xyz), que tu peux ensuite
 donner à un assistant IA (comme Claude Code, Cursor, ou un simple script) pour qu'il corrige des
